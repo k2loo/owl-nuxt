@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "cross-env": "^5.2.0",
-    "nuxt": "^2.4.0"
+    "nuxt": "^2.4.0",
+    "vuesax": "^3.8.20"
   },
   "devDependencies": {
     "nodemon": "^1.18.9"
